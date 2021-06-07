@@ -268,7 +268,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     </a>
                     <ul class="sub">
 						<li><a href="{{URL::to('/delivery')}}">Quản lý vận chuyển</a></li>
-                        <li><a href="{{URL::to('/all-delivery')}}">Danh sách phí vận chuyển</a></li>
+                        
                     </ul>
                 </li>
                 @endif
