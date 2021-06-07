@@ -2,7 +2,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-----SEO------>
 	<meta name="description" content="">
-	<link rel="canonical" href="http://localhost:8080/PastaRestaurant/trang-chu" />
+	<link rel="canonical" href="https://minideli-restaurant.herokuapp.com/trang-chu" />
 	<meta name="keywords" content="Pasta Restaurant,Nhà hàng Pasta,Pasta"/>
 	<meta name="robots" content="INDEX,FOLLOW"/>
     <meta name="author" content="">
